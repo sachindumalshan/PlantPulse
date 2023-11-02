@@ -1,23 +1,21 @@
 Author: sachindumalshan <br>
 Email: sachindu.info@gmail.com
 
-<h2>Project: NexHaven - IoT Based Home Automation System</h2>
+<h2>Project: PlantPulse - IoT Based Smart Agriculture System</h2>
 
-![NexHaven](https://github.com/sachindumalshan/NexHaven/assets/73152414/762239ca-b746-451d-969d-898f3cd1d57e)
+![Plant Pulse](https://github.com/sachindumalshan/PlantPulse/assets/73152414/b5fce518-c585-476d-956e-caba7e5158cc)
 NexHaven is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
 
 🧩 Key Components:
 - ESP32 Microcontroller Board
-- PIR Sensor
-- Magnetic Door Switch Sensor
-- Flame Sensor
-- MQ-5 LP Gas Sensor
-- LED Lights
+- Soil Moisture Sensor
+- Light Sensor
 - DHT11 Sensor
-- Water Level Sensor
+- Mini Submersible Water Pump
+- L293 Motor Driver IC
 - 2 x 3.7V 18650mAh Batteries
 
-💡 What Can NexHaven Do?
+💡 What Can PlantPulse Do?
 NexHaven connects all these components to create a seamless home automation system. Users can remotely access and control their homes from anywhere in the world, thanks to the always-on internet connection. With the help of the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
 
 🏠 Home Security:
