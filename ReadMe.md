@@ -30,10 +30,12 @@ PlantPulse is the result of my passion for home automation, combining cutting-ed
 ☀️ Plant Illumination:
 - You can monitor the sunlight levels for your plants using the app.
 
-This project showcases the potential of IoT by enabling you to remain connected to your farm, regardless of your location. For more information: #link
+This project showcases the potential of IoT by enabling you to remain connected to your farm, regardless of your location.<br>
+For more information: https://bit.ly/PlantPulse_SmartAgricultureSystem
+
 
 Let's make our farms smarter, more secure, and highly efficient with PlantPulse! 🌱
-
+<hr>
 
 <h4><u>Step 1:</u></h4>
 I crafted a rustic wooden farm prototype featuring plants, a water pipe system, a control room with a power supply, and a water tank equipped with a mini water pump. To build my system, I arranged these elements within the wooden structure, ensuring their proper placement and functionality.
