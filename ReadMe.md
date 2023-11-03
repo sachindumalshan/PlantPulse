@@ -16,34 +16,30 @@ PlantPulse is the result of my passion for home automation, combining cutting-ed
 - 2 x 3.7V 18650mAh Batteries
 
 💡 What Can PlantPulse Do?
-NexHaven connects all these components to create a seamless home automation system. Users can remotely access and control their homes from anywhere in the world, thanks to the always-on internet connection. With the help of the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
+- PlantPulse integrates all these elements to establish a seamless IoT-based smart agriculture system. Users can conveniently oversee and manage their farms from anywhere in the world, thanks to the constant internet connectivity. Utilizing the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
 
-🏠 Home Security:
-- The PIR sensor detects motion, enhancing your home's security.
-- The magnetic door lock sensor provides alerts if doors or windows are opened without permission.
-- The flame sensor keeps you safe by detecting fire hazards.
-- The MQ-5 LP Gas Sensor alerts you to potential gas leaks.
+🌾 Crop Moisture Management:
+- The Soil Moisture Sensor keeps tabs on soil moisture levels, optimizing your plant care. Using soil moisture data, it checks the moisture level and automatically controls water flow to the crop accordingly, ensuring efficient irrigation.
 
-🌡️ Climate Control:
-- The DHT11 Sensor keeps you informed about the temperature and humidity levels in your home.
+💧 Water Resource Management:
+- The Mini Submersible Water Pump, which can be controlled manually and also operates automatically, assists in efficient water resource management for your crops.
 
-💧 Water Management:
-- The Water Level Sensor helps you manage water resources efficiently.
+🌡️ Climate Monitoring:
+- The DHT11 Sensor ensures you're aware of the temperature and humidity levels in your farm.
 
-💡 Lighting Control:
-- You can control the LED lights in your home through the app.
+☀️ Plant Illumination:
+- You can monitor the sunlight levels for your plants using the app.
 
-This project demonstrates the power of IoT by allowing you to stay connected to your home no matter where you are. 
-For more information: https://bit.ly/NexHaven_HomeAutomationSystem
+This project showcases the potential of IoT by enabling you to remain connected to your farm, regardless of your location. For more information: #link
 
-Let's make our homes smarter, safer, and more efficient with NexHaven!✨
+Let's make our farms smarter, more secure, and highly efficient with PlantPulse! 🌱
 
 
 <h4><u>Step 1:</u></h4>
-I constructed a charming wooden house prototype using carefully cut and assembled wooden boards. For my circuit board, I placed the components on the board, soldered them together, and tested it for functionality.
+I crafted a rustic wooden farm prototype featuring plants, a water pipe system, a control room with a power supply, and a water tank equipped with a mini water pump. To build my system, I arranged these elements within the wooden structure, ensuring their proper placement and functionality.
 
 <h4><u>Step 2:</u></h4>
-Creating a seamless connection between an ESP32 board and the Arduino Cloud Platform is an exciting venture. By configuring variables within the Arduino Cloud, you can monitor and control your ESP32 remotely. Upload the code to your board using the Arduino Create Agent software for real-time data exchange. This combination of IoT technology promises not only functionality but an elegant solution for remotely managing your devices.
+Establishing a seamless connection between an ESP32 microcontroller and the Arduino Cloud Platform is an exciting project. By configuring variables within the Arduino Cloud, you can conveniently oversee and manage your ESP32 remotely via both a dedicated app and a web dashboard. Upload the code to your board using the Arduino Create Agent software to enable real-time data exchange. This combination of IoT technology offers not only functionality but also an elegant solution for monitoring temperature, humidity, and light levels and controlling the water pump.
 
 
 <h4>License</h4>
