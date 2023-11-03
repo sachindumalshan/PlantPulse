@@ -4,7 +4,7 @@ Email: sachindu.info@gmail.com
 <h2>Project: PlantPulse - IoT Based Smart Agriculture System</h2>
 
 ![Plant Pulse](https://github.com/sachindumalshan/PlantPulse/assets/73152414/b5fce518-c585-476d-956e-caba7e5158cc)
-NexHaven is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
+PlantPulse is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
 
 🧩 Key Components:
 - ESP32 Microcontroller Board
